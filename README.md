@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, Microservices, API, PostgreSQL, SQL, NoSQL and Linux**
 
-- 📫 How to reach me **kislaykumarbhargav@gmail.com**
+- 📫 How to reach me **kislay.tech@gmail.com**
 
 - ⚡ Fun fact **I think, I can sing..**
 
