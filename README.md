@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Apex Trigger, LWC, Salesforce**
 
-- 💬 Ask me about **JavaScript, Rest API, SQL, Salesforce Admin, and Linux**
+- 💬 Ask me about **JavaScript, Rest API, SQL, Salesforce Admin**
 
 - 📫 How to reach me **kislay.tech@gmail.com**
 
